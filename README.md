@@ -1,4 +1,4 @@
-# Blockchain TVL Analysis
+# Python Midterm
 
 A Python-based tool for fetching and analyzing stock data
 
